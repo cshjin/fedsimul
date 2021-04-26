@@ -1,0 +1,8 @@
+**/.vscode/*
+**/__pycache__
+
+**/*.pyc
+
+**/out/
+TODO.md
+**/*.txt
