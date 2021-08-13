@@ -1,0 +1,8 @@
+numpy
+scipy
+tensorflow==1.15
+pillow
+matplotlib
+jupyter
+scikit-learn
+tqdm
