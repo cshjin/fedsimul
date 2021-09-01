@@ -1,6 +1,6 @@
 numpy
 scipy
-tensorflow==1.15
+tensorflow==2.5.1
 pillow
 matplotlib
 jupyter
